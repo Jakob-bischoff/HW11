@@ -4,4 +4,4 @@ This is a README file.
 This change is made in myBranch
 
 ##newBranch
-This is written in the newBranch
+This is written in the main
